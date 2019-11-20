@@ -3,11 +3,14 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
-            "c/customerTile": [
-                "customerTile/customerTile.js"
+            "c/customerDetailForm": [
+                "customerDetailForm/customerDetailForm.js"
             ],
             "c/customerList": [
                 "customerList/customerList.js"
+            ],
+            "c/customerTile": [
+                "customerTile/customerTile.js"
             ],
             "c/inlineMessage": [
                 "inlineMessage/inlineMessage.js"
@@ -15,17 +18,38 @@
             "c/pubsub": [
                 "pubsub/pubsub.js"
             ],
-            "c/reservationHelper": [
-                "reservationHelper/reservationHelper.js"
-            ],
             "c/reservationDetailForm": [
                 "reservationDetailForm/reservationDetailForm.js"
             ],
-            "c/customerDetailForm": [
-                "customerDetailForm/customerDetailForm.js"
+            "c/reservationHelper": [
+                "reservationHelper/reservationHelper.js"
             ],
             "c/reservationHelperForm": [
                 "reservationHelperForm/reservationHelperForm.js"
+            ],
+            "c/reservationTile": [
+                "reservationTile/reservationTile.js"
+            ],
+            "c/reservationList": [
+                "reservationList/reservationList.js"
+            ],
+            "c/imageTile": [
+                "imageTile/imageTile.js"
+            ],
+            "c/imageGallery": [
+                "imageGallery/imageGallery.js"
+            ],
+            "c/pill": [
+                "pill/pill.js"
+            ],
+            "c/pillList": [
+                "pillList/pillList.js"
+            ],
+            "c/spaceDesignForm": [
+                "spaceDesignForm/spaceDesignForm.js"
+            ],
+            "c/spaceDesigner": [
+                "spaceDesigner/spaceDesigner.js"
             ]
         }
     },
